@@ -24,6 +24,7 @@ Example trade-offs of using template literals over JSX:
   - Use standard SVG attributes too without worry! e.g. `xlink:href` instead of `xlinkHref`
 - Render more than just HTML without a problem: SVG, JSON, whatever! It’s all just text. No need to try and do [special fragment workarounds](https://github.com/facebook/react/issues/12014#issuecomment-454869517).
 - No `dangerouslySetInnerHTML` (in a sense, everything in template literals is `dangerouslySetInnerHTML`, you just escape the things you know are unsafe).
+- Do templating in the script tags in your HTML, e.g. `<script>var t = "${myVar}";</script>`
 
 ### Examples
 
