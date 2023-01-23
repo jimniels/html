@@ -1,6 +1,10 @@
 # `html`: JSX-Like Syntax for Tagged Template Literals
 
-[My original blog post on the matter](https://blog.jim-nielsen.com/2019/jsx-like-syntax-for-tagged-template-literals/).
+A couple blog posts detailing the rationale for an using tagged template literals:
+
+- [Templating in JavaScript, From Zero Dependencies on Up](https://blog.jim-nielsen.com/2021/javascript-templating/)
+- [JSX-Like Syntax for Tagged Template Literals in JavaScript](https://blog.jim-nielsen.com/2019/jsx-like-syntax-for-tagged-template-literals/)
+- [Static Site Templating: Switching from React & JSX to JavaScript & Template Literals](https://blog.jim-nielsen.com/2020/switching-from-react-to-js-for-templating/)
 
 ## Usage
 
