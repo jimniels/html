@@ -1,3 +1,6 @@
+<img width="1971" alt="Screnshot of `html` with syntax highlighting in VSCode" src="https://user-images.githubusercontent.com/1316441/219116113-2981f5f5-a95b-47d9-83ee-7b9f1bc6eb7d.png">
+
+
 # `html`: JSX-Like Syntax for Tagged Template Literals
 
 A couple blog posts detailing the rationale for an using tagged template literals:
