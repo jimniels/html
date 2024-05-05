@@ -67,7 +67,7 @@ const out = `<!doctype html>
   <html>
     <body>
       ${H1({ text: "Hello" })}
-      ${H1({ text: "World" })}
+      ${H2({ text: "World" })}
     </body>
   </html>
 `;
